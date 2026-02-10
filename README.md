@@ -27,10 +27,11 @@ A desktop application using **Finite State Automata (FSA)** to validate Timor-Le
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/FSA-Language-Identifier-TL.git
+git clone https://github.com/KituDoutel/FSA-Language-Identifier-TL.git
 
 # Install dependencies
 pip install Pillow
 
 # Run application
+
 python fsa_app.py
